@@ -35,9 +35,4 @@ Este pequeño proyecto consiste en un **análisis exploratorio de datos (EDA)** 
 2. Abre el notebook `.ipynb` en Jupyter o Google Colab.
 3. Ejecuta todas las celdas para ver el análisis completo.
 
----
-
-## 📬 Contacto
-
-Este es un proyecto de aprendizaje para entrevistas de posiciones **junior en Data Science / Business Intelligence**.
 
